@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Wang Xiaoguang is a Ph.D. candidate in Computer Science and Technology at the School of Software Engineering, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), Xi'an, China. His research primarily focuses on artificial intelligence and machine learning, with particular emphasis on financial big data mining and fraud detection.
+
+Prior to his doctoral studies, Wang earned a Master's degree in Finance from Xi'an Jiaotong University in 2021. He completed his undergraduate education at [Northeastern University](https://www.neu.edu.cn/) in Shenyang, China, where he received a Bachelor's degree in Mechanical Engineering in 2018.
 
 A data-driven personal website
 ======
